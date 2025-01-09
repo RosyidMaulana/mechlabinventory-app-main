@@ -11,5 +11,5 @@
     <li>Managemen daftar Peeminjam </li>
     <li>Pencatatan peminjaman barang</li>
   </ul>
- <a href="https://github.com/RosyidMaulana/mechlabinventory-app-main.git">Kunjungi Repository</a>
+
 </div>
